@@ -1,0 +1,10 @@
+git pull before pushing again
+init
+add
+push
+clone
+fork
+commit
+pull request
+merge
+collaborators
