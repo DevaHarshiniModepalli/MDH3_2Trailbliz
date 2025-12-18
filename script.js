@@ -12,3 +12,4 @@ form.addEventListener("submit", function (e) {
     message.textContent = "Thank you! Your message has been sent.";
     form.reset();
 });
+//adding a comment pull request
